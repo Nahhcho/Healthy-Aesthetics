@@ -1,0 +1,20 @@
+.welcome_button {
+    cursor: pointer;
+    top: 588px;
+    left: 24px;
+    width: 327px;
+    height: 48px;
+    padding: 0px 8px;
+    border: 0;
+    box-sizing: border-box;
+    border-radius: 12px;
+    background-color: #0e0e0e;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    outline: none;
+  }
+
+  
+  

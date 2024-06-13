@@ -1,0 +1,61 @@
+.login-input {
+    top: 256px;
+    left: 24px;
+    width: 327px;
+    height: 40px;
+    padding: 0px 8px;
+    border: 0;
+    box-sizing: border-box;
+    border-radius: 12px;
+    background-color: rgba(229,229,229,0.58);
+    color: #0e0e0e;
+    font-size: 14px;
+    line-height: 22px;
+    outline: none;
+    margin: 10px;
+}
+
+.login-button {
+    cursor: pointer;
+    top: 421px;
+    left: 24px;
+    width: 327px;
+    height: 48px;
+    padding: 0px 8px;
+    border: 0;
+    box-sizing: border-box;
+    border-radius: 12px;
+    background-color: rgba(229,229,229,0.61);
+    color: #14171a;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21px;
+    margin-top: 40px;
+}
+
+.divider {
+    top: 505px;
+    left: 24px;
+    width: 141px;
+    height: 1px;
+    background-color: #d3d3d3;
+    border-radius: 2px;
+  }
+  
+  .google-button {
+    cursor: pointer;
+    top: 532px;
+    left: 194px;
+    width: 157px;
+    height: 48px;
+    padding: 0px 8px;
+    border: 0;
+    box-sizing: border-box;
+    border-radius: 12px;
+    background-color: rgba(229,229,229,0.61);
+    color: #14171a;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    outline: none;
+  }

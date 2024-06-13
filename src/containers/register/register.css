@@ -1,0 +1,33 @@
+.reg-input {
+    top: 384px;
+    left: 20px;
+    width: 335px;
+    height: 48px;
+    padding: 0px 8px;
+    border: 0;
+    box-sizing: border-box;
+    border-radius: 12px;
+    background-color: rgba(229,229,229,0.58);
+    color: #94a3b8;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 48px;
+    outline: none;
+}
+
+.reg-button {
+    cursor: pointer;
+    top: 840px;
+    left: 20px;
+    width: 335px;
+    height: 54px;
+    border: 0;
+    box-sizing: border-box;
+    border-radius: 12px;
+    background-color: rgba(229,229,229,0.61);
+    color: #14171a;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 40px;
+    outline: none; 
+}
